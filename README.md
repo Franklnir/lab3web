@@ -1,4 +1,4 @@
-### langkah 1
+### langkah 1 Membuat Ordered List
 
 <!DOCTYPE html>
 <html lang="en">
@@ -25,7 +25,7 @@
 ![image](https://github.com/user-attachments/assets/1518060b-2408-4788-9082-31a105ff4c7c)
 
 
-### langkah 2
+### langkah 2 Membuat Unorderd List
 
 <!DOCTYPE html>
 <html lang="en">
@@ -61,7 +61,7 @@
 
 
 
-### langkah 3
+### langkah 3 Membuat Unorderd List
 
 <!DOCTYPE html>
 <html lang="en">
@@ -96,7 +96,8 @@
 
 
 
-### langkah 4
+### langkah 4 Membuat Tabel, pada langkah ini saya membuat file baru bernama lab3_tabel.html.
+# kita akan Mengatur Margin dan Padding pada <table border="1" cellpadding="4" cellspacing="0">
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -141,7 +142,8 @@
 
 
 
-### langkah 5
+### langkah 5 Menggabungkan Sel Data.
+# pada kali kita akan menggunakan atribut rowspan dan colspan 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -185,7 +187,7 @@
 
 
 
-### langkah 6
+### langkah 6 Membuat Form, di langkah 6 ini membuat file baru lagi dengan nama lab3_form.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -229,7 +231,8 @@ for="jk_p">Perempuan</label>
 
 
 
-### langkah 7
+### langkah 7 menambah style pada form.
+# style di letakkan di dalam head
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -294,6 +297,9 @@ for="jk_p">Perempuan</label>
 
 
 ### tugas 1 Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+#  (Dropdown): Dropdown digunakan untuk memilih satu jenis kelamin.
+#  (Listbox dengan multiple): Listbox ini memungkinkan pengguna untuk memilih lebih dari satu opsi (hobi).
+# terakhir gunakan submit untuk mengirim data
 <!DOCTYPE html>
 <html lang="en">
 <head>
